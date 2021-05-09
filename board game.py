@@ -1,5 +1,5 @@
 import numpy as np
-from numpy.core.numeric import True_
+from numpy.core.numeric import True
 import pygame
 import sys
 import math
